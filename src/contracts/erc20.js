@@ -1,4 +1,4 @@
-export const erc20_address = "0xCAa20D3c19133E1e6C98Ed07eB93b2bC59cc7aF6";
+export const erc20_address =  "0x42544637765A3b9aC23a22D606B3F36F3F33631F";  // "0x601dc6aB07A9898B8EC072E1036F11B43a287239";
 export const erc20_abi = [
   {
     inputs: [
